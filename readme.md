@@ -1,8 +1,8 @@
-### Art of Peace
+## Art of Peace
 
 Art of Peace, is a dogma-free, meta-work, that exist to find  ways for an enduring world peace, via arts, ethics, technology.
 
-## Let's get it up!
+### How to clone this app?
 
 Clone the repository, install the dependencies and start the application
 This repo is based on [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
