@@ -17,9 +17,12 @@ npm run dev
 
 > Have a look at [contribution docs](./contributing) for how to update any of the concepts
 
-- Suggest changes to existing roadmaps
+- Suggest changes to existing concepts
 - Improve the site's codebase
 - Add new concept
+- Add new design
+- Add a translation
+
 - Write tests
 - Discuss ideas in issues
 - Spread the word
