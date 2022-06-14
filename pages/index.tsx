@@ -45,13 +45,15 @@ export default function Home(props: HomeProps) {
               fontSize={['22px', '22px', '28px']}
               mb={['8px', '8px', '15px']}
             >
-              Hey there! 👋
+              Art of Peace
             </Heading>
             <Text fontSize={['14px', '14px', '16px']} mb="10px">
               <Text fontWeight={500} as="span">
-                stateful.art
+                
               </Text>{' '}
-              is a community that enables anyone understanding what web3 is all about, and a path and guide their learnings, to change the world with creative and peaceful disruption.
+              is an egalitarian community that does research, design and development of semi-opinionated paths of general knowledge and learnings. 
+              <br></br>
+              om exists to provide ideas for points of collaboration, on changing the world with creative and peaceful disruption.
             </Text>
 
             <Text fontSize={['14px', '14px', '16px']}>

@@ -6,7 +6,7 @@
 ## Contributing
 
 * [Submitting roadmaps](./roadmap.md)
-* [Adding resources](https://github.com/kamranahmedse/developer-roadmap/issues/985)
+* [Adding resources](https://github.com/stateful-art/art-of-peace/issues/985)
 
 ## Guidelines
 
